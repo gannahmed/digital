@@ -597,10 +597,6 @@ footer
     {
         width: 60%;
     }
-    .client-content > .container
-    {
-        /* width: 2%; */
-    }
     .client-content > p
     {
         width: 100%;
@@ -707,11 +703,10 @@ footer
             width: 100%;
             height: 245px;
             font-size: 11px;
-            margin-right: -43px;
         }
         .comment .comment-pic img
         {
-            width: 100%;
+            width: 52px;
         }
     }
     @media (min-width: 1000px) and (max-width: 1300px) {
